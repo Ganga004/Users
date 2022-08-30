@@ -2,7 +2,7 @@
 
 Its all about Microservice Communication and API Gateway
 
-Need to import Users, Deparment, Service-registry, Api gateway 
+Need to import Users, Deparment, Service-registry, Api gateway in your IDE
 
 SQL Table data:
 
